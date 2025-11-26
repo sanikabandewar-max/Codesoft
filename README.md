@@ -1,2 +1,1 @@
-# Codesoft
-intership in AI.
+
